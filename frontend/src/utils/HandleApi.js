@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const baseUrl = "http://localhost:5000";
+const baseUrl = "to-do-backend-livid.vercel.app";
 
 const getAllTodo = (setTodo) => {
   axios
